@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Metaplex Task</string>
+    <string name="go_button">Go!</string>
+    <string name="default_public_key">4oX431PqGrFBk2qrKQeUMZzabuwsP9AUWfpFbK3vxsLU</string>
+</resources>
